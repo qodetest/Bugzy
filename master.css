@@ -5,7 +5,7 @@ body {
 .logo {
     width: 154px !important;
     height: 34px !important;
-    background: url('Match_heart_154x34.png') no-repeat;
+    background: url('logoicon_154x34.png') no-repeat;
     margin-top: 5px;
     cursor: pointer;
 }
