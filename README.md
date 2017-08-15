@@ -10,3 +10,6 @@ Open source exploratory testing automation framework built with mocha, selenium.
 - npm install selenium-webdriver
 - npm install mocha
 - npm install require
+
+Run test:
+- mocha <testname.js>
