@@ -7,6 +7,7 @@ Status:
 
 
 # Getting started
+After cloning repository run the following from the main tests folder: 
 - npm install selenium-webdriver
 - npm install mocha
 - npm install require
