@@ -16,4 +16,5 @@ Run test:
 - mocha <testname.js>
 
 
-Built with support:![BrowserStack](https://github.com/qodetest/Bugzy/blob/master/bstack.png)
+
+![Built with support from BrowserStack](https://github.com/qodetest/Bugzy/blob/master/bstack.png)
