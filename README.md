@@ -14,3 +14,8 @@ After cloning repository run the following from the main tests folder:
 
 Run test:
 - mocha <testname.js>
+
+
+Built with support:
+
+![image](https://{https://github.com/qodetest/Bugzy/blob/master/Logo-01.svg})
