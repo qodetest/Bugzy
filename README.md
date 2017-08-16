@@ -17,4 +17,6 @@ Run test:
 
 
 
+Supported by:
+
 ![Built with support from BrowserStack](https://github.com/qodetest/Bugzy/blob/master/bstack.png)
