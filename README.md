@@ -18,4 +18,4 @@ Run test:
 
 Built with support:
 
-![BrowserStack](https://github.com/qodetest/Bugzy/blob/master/Logo-01.svg?raw=true)
+![BrowserStack](https://github.com/qodetest/Bugzy/blob/master/bstack.png?raw=true)
